@@ -1,0 +1,75 @@
+App name: HabitIQ
+package name: co.habitiq.app
+privacy policy: create it yourself using free privacy policy generator (Nigeria country)
+  Use these answers in the generator:
+   - App/Website name: HabitIQ
+   - Owner/Company: (your name or company)
+   - Country: Nigeria
+   - Does the app collect personal data? NO
+   - Does the app use third-party analytics/ads? NO
+   - Data stored: only locally on the user's device (habits and daily check-offs)
+  (Short version of the policy text you can paste/host:)
+   "HabitIQ does not collect, store, or share any personal data. All habits and
+    progress are stored only on your device. The app works fully offline and does
+    not use ads, analytics, or third-party tracking. You can export or delete your
+    data at any time from within the app. Optional local reminder notifications are
+    scheduled on-device only. For questions, contact: (your email)."
+data safety: NOTHING
+category: Health & Fitness   (alternative: Productivity)
+tags: habit tracker, habits, streak, daily routine, goals, self-improvement, productivity, consistency, habit builder, motivation
+rating: 3+
+
+Short description:
+Build daily habits, keep streaks, and track progress. Private and fully offline.
+
+Long description:
+HabitIQ helps you build better habits and stick with them - one tap a day.
+
+Create your own habits like "Go to the gym", "Read 20 minutes", "Drink water" or
+"Meditate", then tap once each day to mark them done. Over time HabitIQ shows your
+consistency with a clean year-long contribution grid, streak counters and simple
+charts, so you can finally see patterns like "I went to the gym 18 times this month"
+or "My longest meditation streak is 48 days".
+
+Designed to be radically simple and calm - no clutter, no feature bloat, no login.
+
+WHY YOU'LL LOVE HABITIQ
+- One-tap daily check-off with a satisfying animation and gentle haptic feedback
+- Streak counters that keep you motivated to never break the chain
+- GitHub-style year grid to visualize your whole year at a glance
+- Weekly and monthly bar charts plus clear stats: current streak, longest streak,
+  completion rate and total completions
+- Custom habits: choose a name, icon, color and frequency (every day, specific
+  weekdays, or X times per week)
+- Optional daily reminders so you never forget
+- Light and dark themes that follow your system
+- Drag to reorder, swipe to archive or delete
+
+PRIVATE BY DESIGN
+- No account or sign-up required - start instantly
+- Works 100% offline; your data stays on your device
+- No ads, no tracking, no analytics
+- Export all your data to JSON or CSV any time
+
+Whether you want to build a fitness routine, read more, drink more water or simply
+stay consistent, HabitIQ gives you a beautiful, distraction-free way to track
+smarter and live better.
+
+Track smarter, live better.
+
+
+ALL COUNTRIES
+
+release notes:
+Welcome to HabitIQ 1.0!
+- Create custom habits with your own icon, color and frequency
+- One-tap daily completion with streaks and haptic feedback
+- Year-long contribution grid, weekly/monthly charts and detailed stats
+- Optional daily reminders
+- Light and dark themes
+- Export your data to JSON or CSV
+- Fully offline and private - no account needed
+
+anything: Built with Expo / React Native. App version 1.0.0. Default theme follows
+the system (light/dark). Contact email and a hosted privacy policy URL are required
+by Google Play before publishing.
